@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.Mod.EventHandler"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPreInitializationEvent"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLInitializationEvent"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.event.FMLPostInitializationEvent"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.EventPriority"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.settings.KeyBinding"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.client.registry.ClientRegistry"/>
+    <fullyQualifiedTypeName name="net.java.games.input.Keyboard"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.eventhandler.SubscribeEvent"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.gameevent.InputEvent"/>
+    <fullyQualifiedTypeName name="org.lwjgl.input.Keyboard"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+    <fullyQualifiedTypeName name="net.minecraft.entity.player.EntityPlayer"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.gameevent.InputEvent.KeyInputEvent"/>
+    <fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.relauncher.SideOnly"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.gameevent.TickEvent.RenderTickEvent"/>
+    <fullyQualifiedTypeName name="net.minecraft.entity.EntityLiving"/>
+    <fullyQualifiedTypeName name="javax.swing.text.html.parser.Entity"/>
+    <fullyQualifiedTypeName name="net.minecraft.world.World"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+    <fullyQualifiedTypeName name="net.minecraft.entity.EntityLivingBase"/>
+    <fullyQualifiedTypeName name="net.minecraft.entity.Entity"/>
+    <fullyQualifiedTypeName name="net.minecraft.util.MovingObjectPosition"/>
+    <fullyQualifiedTypeName name="net.minecraft.util.Vec3"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="net.minecraft.util.AxisAlignedBB"/>
+    <fullyQualifiedTypeName name="net.minecraft.util.MovingObjectPosition.MovingObjectType"/>
+    <fullyQualifiedTypeName name="net.minecraft.entity.item.EntityItemFrame"/>
+    <fullyQualifiedTypeName name="cpw.mods.fml.common.gameevent.TickEvent"/>
+</qualifiedTypeNameHistroy>

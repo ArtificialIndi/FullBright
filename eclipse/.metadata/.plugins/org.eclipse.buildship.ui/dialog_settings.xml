@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.import">
+		<item key="project_location" value="F:\mcMods\1.7.10\aimbot"/>
+		<item key="java_home" value="C:\Program Files\Java\jre1.8.0_331"/>
+	</section>
+</section>
